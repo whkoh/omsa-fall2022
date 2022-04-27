@@ -1,0 +1,6 @@
+|       Date | Action                        | Comment |
+|------------+-------------------------------+---------|
+| 2022-03-08 | Submitted                     |         |
+| 2022-04-08 | Offer of admission            |         |
+| 2022-04-13 | Submitted official transcript |         |
+| 2022-04-27 | Verification complete         |         |
